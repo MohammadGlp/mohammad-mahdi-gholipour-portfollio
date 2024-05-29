@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    @font-face {
+        font-weight: 400;
+        font-family: "Bayon";
+        src: url("@/assets/fonts/Bayon-Regular.otf") format("opentype");
+    }
+    @font-face {
+        font-weight: 400;
+        font-family: "Bellefair";
+        src: url("@/assets/fonts/Bellefair-Regular.otf") format("opentype");
+    }
+    @font-face {
+        font-weight: 400;
+        font-family: "Bigilla";
+        src: url("@/assets/fonts/Bigilla.otf") format("opentype");
+    }
+    @font-face {
+        font-weight: 600;
+        font-family: "Bigilla";
+        src: url("@/assets/fonts/Bigilla-Bold.otf") format("opentype");
+    }
+    @font-face {
+        font-weight: 400;
+        font-family: "Cabin";
+        src: url("@/assets/fonts/Cabin-Regular.otf") format("opentype");
+    }
+    @font-face {
+        font-weight: 500;
+        font-family: "Cabin";
+        src: url("@/assets/fonts/Cabin-Medium.otf") format("opentype");
+    }
+    @font-face {
+        font-weight: 500;
+        font-family: "Chedar";
+        src: url("@/assets/fonts/Cheddar_Gothic_Sans.otf") format("opentype");
+    }
+}
