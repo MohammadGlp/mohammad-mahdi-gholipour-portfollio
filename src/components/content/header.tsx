@@ -4,7 +4,6 @@ import MyPic from "@/assets/images/hero-image.jpg";
 import HeroTextPic from "@/assets/images/hero-text.svg";
 import Logo from "@/assets/images/icons/Logo.svg";
 const Header = () => {
-  // const navigate = useNavigate();
   const { menuItem } = useMenus();
 
   const [open, setOpen] = useState(false);
