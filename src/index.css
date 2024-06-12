@@ -39,3 +39,12 @@
         src: url("@/assets/fonts/Cheddar_Gothic_Sans.otf") format("opentype");
     }
 }
+
+body {
+    user-select: none;
+    cursor: none;
+}
+
+a {
+    cursor: none;
+}

@@ -11,7 +11,7 @@ const Footer = () => {
     <footer>
       <div className="flex items-center justify-between font-bellefair sm:text-2xl text-sm text-secondary md:py-10 py-8">
         <h3
-          className="hover:text-primary ease-in-out duration-300 cursor-pointer"
+          className="hover:text-primary ease-in-out duration-300"
           onClick={() => handleScrollToTop()}
         >
           back ↑

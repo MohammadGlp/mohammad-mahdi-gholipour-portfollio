@@ -2,7 +2,6 @@ import { useMemo } from "react";
 import ProjectPicOne from "@/assets/images/projects/project-1.png";
 import ProjectPicTwo from "@/assets/images/projects/project-2.png";
 import ProjectPicThree from "@/assets/images/projects/project-3.png";
-
 interface MenuItem {
   id: number;
   name: string;
@@ -22,7 +21,7 @@ function useMenus() {
     () => [
       {
         id: 1,
-        href: "/cv.pdf",
+        href: "../../resume.pdf",
         name: "download cv",
       },
       {

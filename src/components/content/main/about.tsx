@@ -27,7 +27,7 @@ const About = () => {
               If you want to work with me, or have any questions – <br />
               drop a{" "}
               <a
-                href="mohammadmahdi.gholipour@gmail.com"
+                href="mailto:mohammadmahdi.gholipour@gmail.com"
                 className="no-underline ease-in duration-300 text-white hover:text-primary"
               >
                 message
