@@ -64,9 +64,12 @@ const Header = () => {
                 className="w-full h-full object-cover rounded-[30px] grayscale relative z-10"
               />
               <div className="w-full h-full absolute top-0 bottom-0 left-0 right-0 z-20 overflow-hidden rounded-[30px]">
-                <div className="w-full h-full absolute top-0 bottom-0 left-0 right-0 bg-my-pic bg-no-repeat bg-cover -translate-x-[3%] animate-[onAnimOne_2s_infinite_linear_alternate]"></div>
-                <div className="w-full h-full absolute top-0 bottom-0 left-0 right-0 bg-my-pic bg-no-repeat bg-cover translate-y-[5%] animate-[onAnimTwo_2.3s_-0.8s_infinite_linear_alternate]"></div>
-                <div className="w-full h-full absolute top-0 bottom-0 left-0 right-0 bg-my-pic bg-no-repeat bg-cover animate-[onAnimFlash_1s_infinite_linear]"></div>
+                <img  src={MyPic}
+                alt="Mr.MohammadMahdiGholipour" className="w-full h-full absolute top-0 bottom-0 left-0 right-0 object-cover -translate-x-[3%] animate-[onAnimOne_2s_infinite_linear_alternate]" />
+                <img  src={MyPic}
+                alt="Mr.MohammadMahdiGholipour" className="w-full h-full absolute top-0 bottom-0 left-0 right-0 object-cover translate-y-[5%] animate-[onAnimTwo_2.3s_-0.8s_infinite_linear_alternate]" />
+                <div 
+                className="w-full h-full absolute top-0 bottom-0 left-0 right-0 bg-my-pic bg-no-repeat bg-cover animate-[onAnimFlash_1s_infinite_linear]" />
               </div>
             </div>
 
@@ -77,8 +80,10 @@ const Header = () => {
                 className="w-full h-full scale-x-[-1] grayscale object-cover rounded-[30px] relative z-10"
               />
               <div className="w-full h-full absolute top-0 bottom-0 left-0 right-0 z-20 overflow-hidden rounded-[30px] scale-x-[-1]">
-                <div className="w-full h-full absolute top-0 bottom-0 left-0 right-0 bg-my-pic bg-no-repeat bg-cover -translate-x-[3%] animate-[onAnimOne_2s_infinite_linear_alternate]"></div>
-                <div className="w-full h-full absolute top-0 bottom-0 left-0 right-0 bg-my-pic bg-no-repeat bg-cover translate-y-[5%] animate-[onAnimTwo_2.3s_-0.8s_infinite_linear_alternate]"></div>
+                <img  src={MyPic}
+                alt="Mr.MohammadMahdiGholipour"  className="w-full h-full absolute top-0 bottom-0 left-0 right-0 object-cover -translate-x-[3%] animate-[onAnimOne_2s_infinite_linear_alternate]" />
+                <img  src={MyPic}
+                alt="Mr.MohammadMahdiGholipour"  className="w-full h-full absolute top-0 bottom-0 left-0 right-0 object-cover translate-y-[5%] animate-[onAnimTwo_2.3s_-0.8s_infinite_linear_alternate]" />
                 <div className="w-full h-full absolute top-0 bottom-0 left-0 right-0 bg-my-pic bg-no-repeat bg-cover animate-[onAnimFlash_1s_infinite_linear]"></div>
               </div>
             </div>

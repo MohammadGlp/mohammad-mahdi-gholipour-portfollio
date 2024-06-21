@@ -30,93 +30,93 @@ export default {
       onAnimOne: {
         "0%": {
           "-webkit-clip-path": "polygon(0 0%, 100% 0%, 100% 5%, 0 5%)",
-          "clip-path": "polygon(0 0%, 100% 0%, 100% 5%, 0 5%)",
+          clipPath: "polygon(0 0%, 100% 0%, 100% 5%, 0 5%)",
         },
         "10%": {
           "-webkit-clip-path": "polygon(0 15%, 100% 15%, 100% 15%, 0 15%)",
-          "clip-path": "polygon(0 15%, 100% 15%, 100% 15%, 0 15%)",
+          clipPath: "polygon(0 15%, 100% 15%, 100% 15%, 0 15%)",
         },
         "20%": {
           "-webkit-clip-path": "polygon(0 10%, 100% 10%, 100% 20%, 0 20%)",
-          "clip-path": "polygon(0 10%, 100% 10%, 100% 20%, 0 20%)",
+          clipPath: "polygon(0 10%, 100% 10%, 100% 20%, 0 20%)",
         },
         "30%": {
           "-webkit-clip-path": "polygon(0 1%, 100% 1%, 100% 2%, 0 2%)",
-          "clip-path": "polygon(0 1%, 100% 1%, 100% 2%, 0 2%)",
+          clipPath: "polygon(0 1%, 100% 1%, 100% 2%, 0 2%)",
         },
         "40%": {
           "-webkit-clip-path": "polygon(0 35%, 100% 35%, 100% 35%, 0 35%)",
-          "clip-path": "polygon(0 35%, 100% 35%, 100% 35%, 0 35%)",
+          clipPath: "polygon(0 35%, 100% 35%, 100% 35%, 0 35%)",
         },
         "50%": {
           "-webkit-clip-path": "polygon(0 45%, 100% 45%, 100% 46%, 0 46%)",
-          "clip-path": "polygon(0 45%, 100% 45%, 100% 46%, 0 46%)",
+          clipPath: "polygon(0 45%, 100% 45%, 100% 46%, 0 46%)",
         },
         "60%": {
           "-webkit-clip-path": "polygon(0 50%, 100% 50%, 100% 70%, 0 70%)",
-          "clip-path": "polygon(0 50%, 100% 50%, 100% 70%, 0 70%)",
+          clipPath: "polygon(0 50%, 100% 50%, 100% 70%, 0 70%)",
         },
         "70%": {
           "-webkit-clip-path": "polygon(0 70%, 100% 70%, 100% 70%, 0 70%)",
-          "clip-path": "polygon(0 70%, 100% 70%, 100% 70%, 0 70%)",
+          clipPath: "polygon(0 70%, 100% 70%, 100% 70%, 0 70%)",
         },
         "80%": {
           "-webkit-clip-path": "polygon(0 80%, 100% 80%, 100% 80%, 0 80%)",
-          "clip-path": "polygon(0 80%, 100% 80%, 100% 80%, 0 80%)",
+          clipPath: "polygon(0 80%, 100% 80%, 100% 80%, 0 80%)",
         },
         "90%": {
           "-webkit-clip-path": "polygon(0 50%, 100% 50%, 100% 55%, 0 55%)",
-          "clip-path": "polygon(0 50%, 100% 50%, 100% 55%, 0 55%)",
+          clipPath: "polygon(0 50%, 100% 50%, 100% 55%, 0 55%)",
         },
         "100%": {
           "-webkit-clip-path": "polygon(0 60%, 100% 60%, 100% 70%, 0 70%)",
-          "clip-path": "polygon(0 60%, 100% 60%, 100% 70%, 0 70%)",
+          clipPath: "polygon(0 60%, 100% 60%, 100% 70%, 0 70%)",
         },
       },
       onAnimTwo: {
         "0%": {
           "-webkit-clip-path": "polygon(0 15%, 100% 15%, 100% 30%, 0 30%)",
-          "clip-path": "polygon(0 15%, 100% 15%, 100% 30%, 0 30%)",
+          clipPath: "polygon(0 15%, 100% 15%, 100% 30%, 0 30%)",
         },
         "15%": {
           "-webkit-clip-path": "polygon(0 3%, 100% 3%, 100% 3%, 0 3%)",
-          "clip-path": "polygon(0 3%, 100% 3%, 100% 3%, 0 3%)",
+          clipPath: "polygon(0 3%, 100% 3%, 100% 3%, 0 3%)",
         },
         "25%": {
           "-webkit-clip-path": "polygon(0 8%, 100% 8%, 100% 20%, 0 20%)",
-          "clip-path": "polygon(0 8%, 100% 8%, 100% 20%, 0 20%)",
+          clipPath: "polygon(0 8%, 100% 8%, 100% 20%, 0 20%)",
         },
         "30%": {
           "-webkit-clip-path": "polygon(0 20%, 100% 20%, 100% 20%, 0 20%)",
-          "clip-path": "polygon(0 20%, 100% 20%, 100% 20%, 0 20%)",
+          clipPath: "polygon(0 20%, 100% 20%, 100% 20%, 0 20%)",
         },
         "45%": {
           "-webkit-clip-path": "polygon(0 45%, 100% 45%, 100% 45%, 0 45%)",
-          "clip-path": "polygon(0 45%, 100% 45%, 100% 45%, 0 45%)",
+          clipPath: "polygon(0 45%, 100% 45%, 100% 45%, 0 45%)",
         },
         "50%": {
           "-webkit-clip-path": "polygon(0 50%, 100% 50%, 100% 57%, 0 57%)",
-          "clip-path": "polygon(0 50%, 100% 50%, 100% 57%, 0 57%)",
+          clipPath: "polygon(0 50%, 100% 50%, 100% 57%, 0 57%)",
         },
         "65%": {
           "-webkit-clip-path": "polygon(0 60%, 100% 60%, 100% 60%, 0 60%)",
-          "clip-path": "polygon(0 60%, 100% 60%, 100% 60%, 0 60%)",
+          clipPath: "polygon(0 60%, 100% 60%, 100% 60%, 0 60%)",
         },
         "75%": {
           "-webkit-clip-path": "polygon(0 80%, 100% 80%, 100% 80%, 0 80%)",
-          "clip-path": "polygon(0 80%, 100% 80%, 100% 80%, 0 80%)",
+          clipPath: "polygon(0 80%, 100% 80%, 100% 80%, 0 80%)",
         },
         "80%": {
           "-webkit-clip-path": "polygon(0 40%, 100% 40%, 100% 60%, 0 60%)",
-          "clip-path": "polygon(0 40%, 100% 40%, 100% 60%, 0 60%)",
+          clipPath: "polygon(0 40%, 100% 40%, 100% 60%, 0 60%)",
         },
         "95%": {
           "-webkit-clip-path": "polygon(0 45%, 100% 45%, 100% 60%, 0 60%)",
-          "clip-path": "polygon(0 45%, 100% 45%, 100% 60%, 0 60%)",
+          clipPath: "polygon(0 45%, 100% 45%, 100% 60%, 0 60%)",
         },
         "100%": {
           "-webkit-clip-path": "polygon(0 11%, 100% 11%, 100% 15%, 0 15%)",
-          "clip-path": "polygon(0 11%, 100% 11%, 100% 15%, 0 15%)",
+          clipPath: "polygon(0 11%, 100% 11%, 100% 15%, 0 15%)",
         },
       },
       onAnimShake: {
